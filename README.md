@@ -21,6 +21,16 @@ This repository contains the Python code required to perform:
 
 The code is distributed under the GNU General Public License v3.0 (GPLv3) to promote transparency and reproducibility in scientific research.
 
+## Installation
+
+Clone the repository and install the required dependencies:
+
+git clone https://github.com/<your-user>/Genus2Genes.git
+cd Genus2Genes
+pip install -r requirements.txt
+
+All dependencies will be automatically installed.
+
 ## Data availability
 
 The repository includes example input data (input_lista_genus.txt) containing microbial genera (e.g., Eubacterium, Rickettsiella, Lautropia) and a demonstration notebook (pubtator.ipynb) illustrating the full data retrieval and processing pipeline.
