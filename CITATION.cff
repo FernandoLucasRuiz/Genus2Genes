@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Genus2Genes"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Lucas-Ruiz"
+    given-names: "Fernando"
+    affiliation: "Biomedical Research Institute of Murcia"
+repository-code: "https://github.com/FernandoLucasRuiz/Genus2Genes"
+license: "GPL-3.0-or-later"
+version: "1.0.0"
+date-released: "2025-10-15"
+doi: "10.5281/zenodo.17359324"
+preferred-citation:
+  type: software
+  title: "Genus2Genes"
+  authors:
+    - family-names: "Lucas-Ruiz"
+      given-names: "Fernando"
+  year: 2025
+  version: "1.0.0"
+  doi: "10.5281/zenodo.1234568"
