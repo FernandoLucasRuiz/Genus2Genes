@@ -44,4 +44,4 @@ For correspondence, please contact fernando.lucas@um.es
 ## How to cite
 
 If you use this software, please cite:
-Lucas-Ruiz, F. (2025). Genus2Genes (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.1234568](https://doi.org/10.5281/zenodo.17359324
+Lucas-Ruiz, F. (2025). Genus2Genes (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.1234568]
