@@ -1,0 +1,6 @@
+requests
+pandas
+biopython
+time
+Entrez
+xml.etree.ElementTre
